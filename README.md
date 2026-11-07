@@ -27,13 +27,8 @@ Sebelum menjalankan aplikasi, pastikan sudah menginstal:
    mvn clean javafx:run
 
 ## Screenshot Aplikasi
-![Dashboard](screenshots/dashboard.png)
 
-![Produk](screenshots/Daftar.png)
-
-### Halaman Transaksi
-![Transaksi](screenshots/Detail.png)
-
+![Dashboard](screenshot/Dashboard.png)
 
 ## Struktur Project
 - `src/main/java` – Menyimpan source code Java.
