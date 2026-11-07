@@ -28,7 +28,10 @@ Sebelum menjalankan aplikasi, pastikan sudah menginstal:
 
 ## Screenshot Aplikasi
 
-![Dashboard](screenshot/Dashboard.png)
+<img width="1113" height="882" alt="Daftar" src="https://github.com/user-attachments/assets/cc9d1426-ea84-4a0f-8fa8-706c3789f641" />
+<img width="1112" height="877" alt="Dashboard" src="https://github.com/user-attachments/assets/e56fa53d-2254-428c-88d7-0b3549681dc6" />
+<img width="1095" height="873" alt="Detail" src="https://github.com/user-attachments/assets/23dc2b18-7745-4fb8-951a-1cb3febf4dd4" />
+
 
 ## Struktur Project
 - `src/main/java` – Menyimpan source code Java.
